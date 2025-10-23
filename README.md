@@ -1,5 +1,5 @@
 ## Oii, seja bem-vindo sou a Fábia Alves :)
-Estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino FATEC de Taubaté. 
+Formada Análise e Desenvolvimento de Sistemas na instituição de ensino FATEC de Taubaté. 
 
 <div style="background-color:000">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E30B5C&height=120&section=header"/>
